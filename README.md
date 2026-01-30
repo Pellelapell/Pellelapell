@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Timéo
 
-🎓 Computer science student  
+🎓 2nd year student @Supinfo, 2MENG (Master of Engineering)
 🔐 Interested in **cybersecurity**, **networks** and **software development**  
-🚀 Currently preparing for a **3rd-year apprenticeship**
+🚀 Currently looking for a **3rd-year apprenticeship**
 
 ---
 
@@ -20,10 +20,9 @@ I am particularly interested in:
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: Java, SQL  
-- **Concepts**: OOP, MVC, authentication, database design  
-- **Tools**: Git, IntelliJ IDEA, MySQL  
-- **Currently learning**: cybersecurity fundamentals, networking, backend design
+- **Languages**: Java, SQL , C++, C#
+- **Tools**: Git, IntelliJ IDEA, MySQL , Unity, 3DS Max, Blender
+- **Currently learning**: cybersecurity fundamentals
 
 ---
 
@@ -40,5 +39,5 @@ Each project focuses on clean structure, clarity, and real-world use cases.
 
 ## 📫 Contact
 
-Feel free to reach out if you’d like to discuss a project or an apprenticeship opportunity.
+Feel free to contact me by mail or on linkedin if you’d like to discuss a project or an apprenticeship opportunity.
 
