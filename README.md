@@ -3,6 +3,7 @@
 🎓 2nd year student @Supinfo, 2MENG (Master of Engineering)
 
 🔐 Interested in **cybersecurity**, **networks** and **software development**  
+
 🚀 Currently looking for a **3rd-year apprenticeship**
 
 ---
