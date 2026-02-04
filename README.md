@@ -34,6 +34,8 @@ Here you will find:
 - Academic projects
 - Personal experiments
 - Practical applications built to improve my technical skills
+- I also made a video game with some friends in the past which you can find on itch.io
+https://yannwarlop.itch.io/extra-galactical-kargoship
 
 Each project focuses on clean structure, clarity, and real-world use cases.
 
